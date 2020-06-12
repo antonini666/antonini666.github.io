@@ -5281,7 +5281,7 @@ input + .slider-b-white::before {
 }
 .portolio-image {
   margin-bottom: 40px;
-  height: 230.2px;
+  height: 410px;
   cursor: pointer;
   -webkit-transition: 0.6s ease;
   -o-transition: 0.6s ease;
