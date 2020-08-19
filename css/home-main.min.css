@@ -5272,13 +5272,24 @@ input + .slider-b-white::before {
   width: 760px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 55px;
+  margin-bottom: 20px;
   -webkit-transition: 0.6s ease;
   -o-transition: 0.6s ease;
   transition: 0.6s ease;
   font-size: 23px;
   line-height: 1.25;
 }
+
+.portfolio .h4 {
+  font-size: 20px;
+  padding-bottom: 20px;
+  color: #ffeb3b;
+}
+
+.portfolio .h4.h4-white {
+  color: #9c27b0;
+}
+
 .portolio-image {
   margin-bottom: 40px;
   height: 410px;
@@ -5287,7 +5298,16 @@ input + .slider-b-white::before {
   -o-transition: 0.6s ease;
   transition: 0.6s ease;
 }
+.portfolio-technology {
+  margin-bottom: 30px;
+}
+
+.portfolio-technology img {
+  margin-right: 10px;
+}
+
 .brk-btn {
+  display: inline-block;
   cursor: pointer;
   position: relative;
   background: 0 0;
