@@ -5685,7 +5685,8 @@ input + .slider-b-white::before {
 .opensans {
   font-family: "Source Sans Pro", sans-serif;
   font-style: italic;
-  font-weight: normal;
-  font-size: 20px;
-  color: white;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #7f7f8d;
 }
