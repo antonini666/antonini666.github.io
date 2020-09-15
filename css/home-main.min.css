@@ -5683,7 +5683,6 @@ input + .slider-b-white::before {
 }
 
 .opensans {
-  font-family: "Open Sans Pro";
   font-family: "Source Sans Pro", sans-serif;
   font-style: italic;
   font-weight: normal;
