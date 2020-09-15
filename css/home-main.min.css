@@ -5681,3 +5681,10 @@ input + .slider-b-white::before {
     margin-top: 20px;
   }
 }
+
+.opensans {
+  font-family: "Open Sans Pro";
+  font-family: "Source Sans Pro", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+}
